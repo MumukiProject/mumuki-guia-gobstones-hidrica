@@ -1,0 +1,3 @@
+Los diques son construcciones que suelen estar a la orilla de los ríos para controlar su nivel de agua. De esta forma se evitan las inundaciones :ocean: o se reparte el agua en momentos de sequía :desert:. ¡Veamos cómo funciona! 
+
+> Construí el programa para `abrir las compuertas` si están cerradas y, si no, `cerrarlas`. Para eso definí los procedimientos `Abrir compuertas` para que ponga una bolita verde y `Cerrar compuertas` para que saque una bolita verde.
