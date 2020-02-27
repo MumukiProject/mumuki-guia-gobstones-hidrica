@@ -1,0 +1,1 @@
+La parte de cerrar las compuertas cuando esté abierto y llueva, ya la tenés hecha. Sólo tenés que agregar al programa la condición que falta y el procedimiento `Limpiar` en las ramas donde sea necesario.
