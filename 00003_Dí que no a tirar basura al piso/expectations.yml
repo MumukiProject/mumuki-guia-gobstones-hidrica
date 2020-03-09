@@ -12,3 +12,6 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
   inspection: Declares:Limpiar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Intransitive:program
+  inspection: Not:Uses:Mover
